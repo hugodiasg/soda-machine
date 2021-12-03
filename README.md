@@ -8,4 +8,4 @@ FSM  - Soda Machine
 GTKWave - Simulation Results
 
 
-![image](https://user-images.githubusercontent.com/80465879/144523896-852c9ff9-1ffd-4d9d
+![image](https://user-images.githubusercontent.com/80465879/144523896-852c9ff9-1ffd-4d9d-a37c-6f1dd1901f2f.png)
